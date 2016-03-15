@@ -24,13 +24,17 @@ repositori de recursos i exercicis de les càpsules Massana Computacional, març
   * [dibuix amb primitives](http://learningprocessing.com/examples/chp01/example-01-05-zoog)
   * [referència](https://processing.org/reference/)
   * [ellipse](https://processing.org/reference/ellipse_.html)
+
 #####estructura
   * [setup + draw](http://learningprocessing.com/examples/chp03/example-03-01-setupdraw)
+
 #####variables!
   * CHAP 4 - learning processing
     * [declaració, ús, operadors, etc](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
+
 #####variables de sistema (mouse) i interacció!
   * [mouseX, mouseY](http://learningprocessing.com/examples/chp03/example-03-04-continuousline)
+
 #####aleatorietat
   * [aleatorietat](http://learningprocessing.com/examples/chp04/example-04-07-randompainting)
 
