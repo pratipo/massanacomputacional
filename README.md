@@ -21,9 +21,9 @@ repositori de recursos i exercicis de les càpsules Massana Computacional, març
 
 #### SESSIÓ 1
 #####eines i referència
-[dibuix amb primitives](http://learningprocessing.com/examples/chp01/example-01-05-zoog)
-[referència](https://processing.org/reference/)
- ...[ellipse](https://processing.org/reference/ellipse_.html)
+...[dibuix amb primitives](http://learningprocessing.com/examples/chp01/example-01-05-zoog)
+...[referència](https://processing.org/reference/)
+...[ellipse](https://processing.org/reference/ellipse_.html)
 #####estructura
 [setup + draw](http://learningprocessing.com/examples/chp03/example-03-01-setupdraw)
 #####variables!
